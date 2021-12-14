@@ -4,4 +4,4 @@ Just a simple resource to block players from joining who have Special Characters
 ---
 
 ## Support
-* [Discord](https://redirect.toxicdev.me/discord)
+* [Discord](https://discord.gg/QhmXAJdPQu)
